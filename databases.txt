@@ -1,0 +1,10 @@
+postgres
+template1
+template0
+testdb
+mydb
+userdb
+example
+test
+db
+test_db
